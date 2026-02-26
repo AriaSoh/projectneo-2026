@@ -62,3 +62,12 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 - None
+
+## 2025-02-25
+
+### Added
+- (not complete yet) standard deviations of impact probabilities plotting
+
+### Changed
+
+### Fixed
