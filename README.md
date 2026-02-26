@@ -16,3 +16,5 @@ In this project, data published by NASA and ESA will be collect, cross-match, an
 Publicly available online data:
 - NASA Sentry Risk Table: https://cneos.jpl.nasa.gov/sentry/
 - ESA Aegis Risk List: https://neo.ssa.esa.int/risk-list
+
+## [Link to presentation](https://docs.google.com/presentation/d/1CQHZkLXI20dOoGEox4axPJEj0U-SROlsvBdTEqDd6OM/edit?slide=id.p#slide=id.p)
